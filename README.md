@@ -454,6 +454,7 @@ Further resources:
 <a name="javascript-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
+* [vis.js](http://visjs.org/) - free and good performance chart library.
 * [D3.js](https://d3js.org/)
 * [High Charts](http://www.highcharts.com/)
 * [NVD3.js](http://nvd3.org/)
